@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AlmacenamientoPreferencias</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+
+    <string name="titulo_login">Login</string>
+    <string name="nombre_usuario">Nombre de usuario</string>
+    <string name="password">Password</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="titulo">Menu principal</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
 </resources>
